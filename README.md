@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/philskat/webpack-starter/workflows/Node.js%20CI/badge.svg?event=push)](https://github.com/philskat/webpack-starter/actions?query=workflow%3A%22Node.js+CI%22)
+
 # Webpack-starter
 
 This repository is used as a template for webpack projects.
