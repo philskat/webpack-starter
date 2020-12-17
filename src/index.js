@@ -1,3 +1,3 @@
-const counter = require('./counter');
+require('./counter');
 
 require('./index.scss');
